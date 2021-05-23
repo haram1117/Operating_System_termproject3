@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\lg_gream\source\repos\OS_Termproject3\OS_Termproject3\main.cpp(52,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lg_gream\source\repos\OS_Termproject3\OS_Termproject3\main.cpp(37): warning C4715: 'isSafeState': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  OS_Termproject3.vcxproj -> C:\Users\lg_gream\source\repos\OS_Termproject3\Debug\OS_Termproject3.exe
